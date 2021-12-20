@@ -1,2 +1,3 @@
-# baking-soda-issues
-The Baking Soda issue tracker.
+# Baking Soda Issues
+
+This is the Baking Soda issue tracker.
